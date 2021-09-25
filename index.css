@@ -17,7 +17,21 @@ border:1px solid;
     .header nav ul{
     line-height:50px;
     }
-   
+    .header nav ul li{
+      list-style-type:none; 
+      display:inline-block; 
+      margin-left:30px
+    }
+    .header nav ul li a{
+    text-decoration:none;
+    display:block;
+    padding:0px 10px;
+    
+    }
+    .header nav ul li a:hover{
+    background-color:green;
+    color:yellow;
+    }
 
 /* Styling content*/
 
