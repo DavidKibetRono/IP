@@ -71,7 +71,14 @@ color: red;
     background-color: #ffffff;
     overflow:auto;
 }
-
+.content #about_me #indexes{
+    float:left;
+    margin-top:10px;
+   }
+   .content #about_me #indexes #galary{
+       width:200px;
+       height:230px;
+      }
 
 #site{
     background-color: lightblue;}
@@ -86,8 +93,6 @@ color: red;
         margin: 0px 0px 0px 10px;
     
     }
-
-
 
 /* Styling footer*/
 
