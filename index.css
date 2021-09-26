@@ -100,4 +100,22 @@ color: red;
     padding:10px;
     height:210px;
 }
+.footer ul{
+    margin-left:75%;
+    margin-top:40px;
+}
+.footer ul li{
+    list-style-type:none;
+   display:inline-block; 
+}
+.footer ul li a{
+    background-color: yellow;
+  text-decoration:none;
+  margin-right:30px;
+  padding:10px;
+  
+}
+.footer ul li a:hover{
+    color:green;
+}
 
