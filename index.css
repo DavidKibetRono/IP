@@ -37,7 +37,55 @@ border:1px solid;
     }
 
 /* Styling content*/
+.content{
+    background-color: rgb(255,255,255);
+    width:100%;
+    height:500px;
+}
+.content #image1{
+width:33%;
+float:left;
 
+}
+.content #image1 img{
+    height:500px;
+    width:600px;
+    margin-left: 10px;
+
+}
+.content #about_me h2{
+    text-align:center;
+}
+.content #about_me p{
+    padding-left:2px;
+}
+.content #about_me p::first-letter{
+font-size:30px;
+color: red;
+
+}
+.content #about_me{
+    float:left;
+    width:33%;
+    height:500px;
+    background-color: #ffffff;
+    overflow:auto;
+}
+
+
+#site{
+    background-color: lightblue;}
+    .content #image2{
+        width:33%;
+        float:left;
+      
+    }
+    .content #image2 img{
+        height:500px;
+        width:635px;
+        margin: 0px 0px 0px 10px;
+    
+    }
 
 
 
