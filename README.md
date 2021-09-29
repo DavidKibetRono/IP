@@ -10,4 +10,4 @@ DavidRono's fashion is a one single page project where only users interact with 
 ### Link to the site
 [Click Here](https://davidkibetrono.github.io/IP/)
 ### Licence
-copyright: © RonFash.com | Designed by Rono David.
+[MIT](LICENSE)
