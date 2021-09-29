@@ -1,6 +1,10 @@
 
 
+## Table of Contents
 
+1. [Site's Name](#Site's Name)
+2. [Licence](#licence)
+3. 
 ### Site's Name: DavidRono's Fashion
 ### Author Name: David Rono
 ### Site's Description: This is a simple photographic site that is used to advertise on recent fashions of clothes where on the user interface, the customers are able to view various pictures of new fashions of clothes. These customers can also contact us using the provide form if interested in one or many displayed fashions.
