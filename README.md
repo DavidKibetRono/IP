@@ -2,11 +2,11 @@
 
 ## Table of Contents
 
-1. [Site's Name](#Site's)
-2. [Author Name](#Author)
-3. [Site's Description](#Description)
+1. [Site's Name](#site's)
+2. [Author Name](#author)
+3. [Site's Description](#description)
 4. [Project setup instructions](#instructions)
-5. [Site's Link](#Link)
+5. [Site's Link](#link)
 6. [Licence](#licence)
 7. 
 ### Site's Name: DavidRono's Fashion
