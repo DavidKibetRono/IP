@@ -53,6 +53,10 @@ float:left;
     margin-left: 10px;
 
 }
+#about_me a{
+    background-color: lightblue;
+}
+
 .content #about_me h2{
     text-align:center;
 }
@@ -134,6 +138,17 @@ margin-right: 30px;
     }
 #galary{
 width:400px;
-height: 400px;
-border:1px solid red;
+height: 00px;
+border:1px solid black;
+}
+.biography{
+    background-color: seashell;
+    height:280px;
+    color:black;
+   
+}
+.biography p{
+
+margin-left:300px;
+margin-top:-250px;
 }
