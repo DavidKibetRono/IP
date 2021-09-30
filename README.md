@@ -10,4 +10,4 @@ DavidRono's fashion is a one single page project where only users interact with 
 ### Link to the site
 [Click Here](https://davidkibetrono.github.io/IP/)
 ### Licence
-[MIT](LICENSE)
+[MIT](https://choosealicense.com/licenses/mit/)
